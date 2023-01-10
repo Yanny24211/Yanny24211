@@ -2,12 +2,13 @@
 # 📖 About Me
 * 🌱 I’m currently learning JavaScript, ultimaltey learning all the technologies in MERN Stack
 * 💬 Ask me about my University experiences, Frontend Development, or my projects!
-* 💻 Contact me: yanny24211@gmail.com
+* 📞 Contact me: yanny24211@gmail.com
 * 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
 
-## 
+## 💻 Technologies and Languages
 
-## 
+
+## 🌐 Socials
 
 
 ### 🔧Currently Working On
