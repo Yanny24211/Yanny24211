@@ -9,6 +9,8 @@
 
 
 ## 🌐 Socials
+<a href="https://www.linkedin.com/feed/"><img width=25px height=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"></a>
+
 
 
 ### 🔧Currently Working On
@@ -20,4 +22,4 @@
 * Creating and hosting my personal portfolio website (With automatic updates using JS DOM manipulation)
 * Creating on a FullStack Application that helps manage and help users with investing
 
-<p fig.align = 'center'>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanny24211&how_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanny24211&how_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
