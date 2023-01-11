@@ -6,10 +6,10 @@
 * 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
 
 ## 💻 Technologies and Languages
-
+<img width=35px height=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="Lua">
 
 ## 🌐 Socials
-<a href="https://www.linkedin.com/feed/"><img width=35px height=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"></a>
+<a href="https://www.linkedin.com/feed/"><img width=35px height=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn Page"></a>
 
 
 
