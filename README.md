@@ -1,4 +1,4 @@
-<img src="" width="40" height="40" />
+<img src="" width="300px" height="300px" object-fit="cover"/>
 
 # 📖 About Me
 * 🌱 I’m currently learning JavaScript, ultimaltey learning all the technologies in MERN Stack
