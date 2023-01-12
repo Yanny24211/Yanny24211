@@ -22,7 +22,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000?&logo=linux)
 
 ## 🌐 Socials
-<a href="https://www.linkedin.com/feed/"><img width=35px height=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn Page"></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
 
 
 ### 🔧Currently Working On
