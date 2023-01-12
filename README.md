@@ -8,7 +8,18 @@
 
 
 ## 💻 Technologies and Languages
-
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![HTML](https://img.shields.io/badge/HTML-000?&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?&logo=css3)
+![BootStrap](https://img.shields.io/badge/Bootstrap-000?&logo=bootstrap)
+![Lua](https://img.shields.io/badge/Lua-000?&logo=lua)
+![Git](https://img.shields.io/badge/Git-000?&logo=git)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-000?&logo=tailwindcss)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-000?&logo=tensorflow)
+![Linux](https://img.shields.io/badge/Linux-000?&logo=linux)
 
 ## 🌐 Socials
 <a href="https://www.linkedin.com/feed/"><img width=35px height=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn Page"></a>
