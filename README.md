@@ -11,8 +11,6 @@
 ## 🌐 Socials
 <a href="https://www.linkedin.com/feed/"><img width=35px height=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn Page"></a>
 
-
-
 ### 🔧Currently Working On
 * Mastering DOM Manipulation + JavaScript basics
 * Learning React and working with API services
