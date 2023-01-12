@@ -7,6 +7,7 @@
 
 ## 💻 Technologies and Languages
 
+
 ## 🌐 Socials
 <a href="https://www.linkedin.com/feed/"><img width=35px height=auto src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="LinkedIn Page"></a>
 
