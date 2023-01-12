@@ -22,7 +22,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000?&logo=linux)
 
 ## 🌐 Socials
-<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
+<a href="https://www.linkedin.com/in/yanny-patel/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
 
 
 ## 🔧Currently Working On
