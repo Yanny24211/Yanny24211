@@ -1,4 +1,4 @@
-<img src="" width="300px" height="300px" object-fit="cover"/>
+<img src="intro.gif" />
 
 # 📖 About Me
 * 🌱 I’m currently learning JavaScript, ultimaltey learning all the technologies in MERN Stack
