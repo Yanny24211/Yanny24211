@@ -25,13 +25,13 @@
 <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&logo=linkedin" alt="LinkedIn Page"></a>
 
 
-### 🔧Currently Working On
+## 🔧Currently Working On
 * Mastering DOM Manipulation + JavaScript basics
 * Learning React and working with API services
 * Minor JS Projects
 
 
-### 🚀Future Plans
+## 🚀Future Plans
 * Creating and hosting my personal portfolio website (With automatic updates using JS DOM manipulation)
 * Creating on a FullStack Application that helps manage and help users with investing
 
