@@ -35,7 +35,6 @@
 * Creating and hosting my personal portfolio website (With automatic updates using JS DOM manipulation)
 * Creating on a FullStack Application that helps manage and help users with investing
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanny24211&how_icons=true&count_private=true&theme=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanny24211&how_icons=true&count_private=true&theme=dark)
 
 
