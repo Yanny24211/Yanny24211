@@ -1,7 +1,7 @@
 <img src="intro.gif" />
 
 # 📖 About Me
-* 🌱 I’m currently learning JavaScript, ultimaltey learning all the technologies in MERN Stack
+* 🌱 I’m currently learning JavaScript, ultimately learning all the technologies in MERN Stack
 * 💬 Ask me about my University experiences, Frontend Development, or my projects!
 * 📞 Contact me: yanny24211@gmail.com
 * 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
