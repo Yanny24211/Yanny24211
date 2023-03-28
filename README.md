@@ -30,13 +30,14 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanny24211&how_icons=true&count_private=true&theme=dark)-->
 
-
+<p align="center"> 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanny24211&how_icons=true&count_private=true&theme=dark" />
 </a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanny24211&layout=compact&theme=dark" />
 </a>
+</p>
 
 ### Special Thanks to: <a href="https://github.com/anuraghazra">Anurag's GitHub Stats Repo For Making My Page Much Cooler</a>
 
