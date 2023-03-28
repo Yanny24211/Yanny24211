@@ -13,7 +13,7 @@
 </p>
 
 ## 🌐 Socials
-<a href="https://www.linkedin.com/in/yanny-patel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Page"></a>
+<p align="center"><a href="https://www.linkedin.com/in/yanny-patel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Page"></a></p>
 
 
 ## 🔧Currently Working On: ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript) ![React](https://img.shields.io/badge/-React-000?&logo=react) ![Vercel](https://img.shields.io/badge/-Vercel-000?&logo=vercel) ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
