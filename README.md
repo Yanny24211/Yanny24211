@@ -16,7 +16,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/yanny-patel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Page"></a></p>
 
 
-##<p vertical-align="center"> 🔧Currently Working On: <img src="https://skillicons.dev/icons?i=typescript,react,vercel,nodejs,raspberrypi"></p>
+##<p vertical-align="middle"> 🔧Currently Working On: <img src="https://skillicons.dev/icons?i=typescript,react,vercel,nodejs,raspberrypi"></p>
 * Mastering DOM Manipulation + JavaScript basics
 * Learning React and working with API services
 * Minor JS Projects
