@@ -12,11 +12,7 @@
   <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,css,discord,figma,git,github,html,java,js,linux,c,cpp,nodejs,ps,py,vscode,matlab,latex,tensorflow,eclipse&perline=11">
 </p>
 
-## 🌐 Socials
-<p align="center"><a href="https://www.linkedin.com/in/yanny-patel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Page"></a></p>
-
-
-##🔧Currently Working On: 
+## 🔧Currently Working On: 
 * Mastering DOM Manipulation + JavaScript basics
 * Learning React and working with API services
 * Minor JS Projects
@@ -27,6 +23,10 @@
 ## 🚀Future Plans
 * Creating and hosting my personal portfolio website (With automatic updates using JS DOM manipulation)
 * Creating on a FullStack Application that helps manage and help users with investing
+
+# 🌐 Socials
+<p align="center"><a href="https://www.linkedin.com/in/yanny-patel/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Page"></a></p>
+
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanny24211&how_icons=true&count_private=true&theme=dark)-->
 
