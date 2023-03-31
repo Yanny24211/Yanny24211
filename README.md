@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yanny24211&how_icons=true&count_private=true&theme=dark" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanny24211&exclude_repo=Simple-GPUs&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanny24211&exclude_repo=Simple-GPU&layout=compact&theme=dark" />
 </a>
 </p>
 
