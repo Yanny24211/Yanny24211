@@ -5,7 +5,7 @@
 * 💬 Ask me about my University experiences, Frontend Development, or my projects!
 * 📞 Contact me: yanny24211@gmail.com
 * 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yanny24211&label=Profile%20views&color=0e75b6&style=flat" alt="Yanny24211" /> </p>
+
 
 
 ## 💻 Technologies and Languages
