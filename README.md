@@ -16,7 +16,7 @@
 ## 🔧Currently Working On: 
 * Mastering DOM Manipulation + JavaScript basics
 * Learning React and working with API services
-* Minor JS Projects
+* Ethical Hacking
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=typescript,react,vercel,nodejs,raspberrypi">
 </p>
