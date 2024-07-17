@@ -10,7 +10,7 @@
 
 ## 💻 Technologies and Languages
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,css,docker,figma,git,azure,html,java,js,linux,c,cpp,elasticsearch,ps,py,vscode,matlab,latex,tensorflow,eclipse,react,nodejs,typescript,express, kubernetes,mysql,redux,regex&perline=15">
+  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,css,docker,figma,git,azure,html,java,js,linux,c,cpp,elasticsearch,ps,py,vscode,matlab,latex,tensorflow,eclipse,react,nodejs,typescript,express, kubernetes,mysql,redux,regex&perline=13">
 </p>
 
 ## 🔧Currently Working On: 
