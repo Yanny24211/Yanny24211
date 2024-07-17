@@ -10,14 +10,14 @@
 
 ## 💻 Technologies and Languages
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,css,discord,figma,git,github,html,java,js,linux,c,cpp,nodejs,ps,py,vscode,matlab,latex,tensorflow,eclipse,react,nodejs,typescript,express&perline=13">
+  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,css,docker,figma,git,azure,html,java,js,linux,c,cpp,elasticsearch,ps,py,vscode,matlab,latex,tensorflow,eclipse,react,nodejs,typescript,express, kubernetes,mysql,redux,regex&perline=15">
 </p>
 
 ## 🔧Currently Working On: 
 * Creating FullStack Applications
 * Ethical Hacking and CyberSecurity Concepts
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=docker,mongodb,vercel,raspberrypi">
+  <img src="https://skillicons.dev/icons?i=threejs,ruby,mongodb,vercel,raspberrypi">
 </p>
 
 ## 🚀Future Plans
