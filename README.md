@@ -14,8 +14,8 @@
 </p>
 
 ## 🔧Currently Working On: 
-* Creating FullStack Applications
-* Ethical Hacking and CyberSecurity Concepts
+* AWS Cert
+* Ethical Hacking and CyberSecurity
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=threejs,ruby,mongodb,vercel,raspberrypi">
 </p>
