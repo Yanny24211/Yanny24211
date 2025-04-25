@@ -1,7 +1,7 @@
 <img src="intro.gif" />
 
 # 📖 About Me
-* 🌱 I’m currently learning JavaScript, ultimately learning all the technologies in MERN Stack
+* 🌱 I’m currently learning more about machine learning and cybersecurity
 * 💬 Ask me about my University experiences, Frontend Development, or my projects!
 * 📞 Contact me: yanny24211@gmail.com
 * 🔗 Check out my portfolio site: https://yanny24211.github.io/yanny-portfolio/
