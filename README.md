@@ -2,7 +2,7 @@
 
 # 📖 About Me
 * 🌱 I’m currently learning more about machine learning and cybersecurity
-* 💬 Ask me about my University experiences, Frontend Development, or my projects!
+* 💬 Ask me about my University experiences,fullstack development experience, or my projects!
 * 📞 Contact me: yanny24211@gmail.com
 * 🔗 Check out my portfolio site: https://yanny24211.github.io/yanny-portfolio/
 * 🎓 Currently Studying Bachelors of Computer Engineering with Software Specialization at Toronto Metropolitan University
