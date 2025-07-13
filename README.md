@@ -11,14 +11,14 @@
 
 ## 💻 Technologies and Languages
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,css,docker,figma,git,azure,html,java,js,kubernetes,mysql,redux,regex,linux,c,cpp,elasticsearch,ps,py,vscode,matlab,latex,tensorflow,eclipse,react,nodejs,typescript,express">
+  <img src="https://skillicons.dev/icons?i=arduino,blender,bootstrap,css,docker,figma,git,azure,html,java,js,kubernetes,mysql,redux,regex,linux,c,cpp,elasticsearch,ps,py,vscode,matlab,latex,tensorflow,eclipse,react,nodejs,typescript,express,threejs,cypress&perline=16&theme=light">
 </p>
 
 ## 🔧Currently Working On: 
 * AWS Cert
 * Ethical Hacking and CyberSecurity
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=threejs,ruby,mongodb,vercel,raspberrypi">
+  <img src="https://skillicons.dev/icons?i=ruby,mongodb,vercel,raspberrypi">
 </p>
 
 ## 🚀Future Plans
